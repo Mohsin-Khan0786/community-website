@@ -30,7 +30,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link to="/blog" className="hover:underline text-sm">
+                <Link to="/chatbot" className="hover:underline text-sm">
                   Chatbot
                 </Link>
               </li>
