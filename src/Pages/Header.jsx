@@ -10,7 +10,7 @@ const Header = () => {
         <h2>Tech Tribe</h2>
       </div>
 
-      <nav className="hidden md:flex gap-8 text-white text-[14px] capitalize">
+      <nav className="w-screen md:w-full fixed bottom-0 left-0 md:static flex gap-5 sm:gap-8 justify-center py-5 bg-gray-950 rounded-lg border border-gray-600 text-white text-[14px] capitalize">
         <Link to="/" className="hover:text-[#5C42F6]">
           Home
         </Link>
