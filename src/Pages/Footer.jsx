@@ -41,17 +41,17 @@ const Footer = () => {
             <h2 className="text-lg font-semibold mb-2">Social</h2>
             <ul className="flex flex-col gap-2">
               <li>
-                <Link to="/blog" className="hover:underline text-sm">
+                <Link to="https://www.facebook.com/me/" className="hover:underline text-sm">
                   FaceBook
                 </Link>
               </li>
               <li>
-                <Link to="/blog" className="hover:underline text-sm">
+                <Link to="https://www.instagram.com/muhammad_mohsin_0786/#" className="hover:underline text-sm">
                   Instagram
                 </Link>
               </li>
               <li>
-                <Link to="/blog" className="hover:underline text-sm">
+                <Link to="https://www.linkedin.com/in/mohsinkhanaa34?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="hover:underline text-sm">
                   LinkedIn
                 </Link>
               </li>
